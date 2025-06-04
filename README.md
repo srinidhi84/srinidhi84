@@ -25,9 +25,9 @@ I’m Jillela Srinidhi, a passionate software developer and B.Tech Information T
 
 * **Languages:** C, Java, Python, JavaScript
 * **Frontend:** HTML, CSS, JavaScript, React
-* **Backend:** Node.js, Flask, MongoDB, SQL
+* **Backend:** Node.js, Flask, SQL
 * **AI/ML:** Python (scikit-learn, NumPy, Pandas), Prompt Engineering, Google Gemini AI
-* **Tools:** Git, GitHub, VS Code, Firebase
+* **Tools:** Git, GitHub, VS Code
 * **Soft Skills:** Leadership, Time Management, Communication, Team Collaboration
 
 ---
